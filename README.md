@@ -1,0 +1,1 @@
+# npm-typescript-sample
